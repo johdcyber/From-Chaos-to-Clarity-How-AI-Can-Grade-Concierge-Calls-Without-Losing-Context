@@ -1,0 +1,15 @@
+Agent: Hello, thanks for calling. How can I help today?
+Customer: I want to book a weekend trip and I need flexible options.
+Agent: Absolutely. We can explore options. First, what dates were you thinking?
+Customer: The 18th through the 20th. I may need to cancel if work calls.
+Agent: Got it. I’ll check availability and some upgrade possibilities.
+Customer: Please don't promise anything you can't guarantee.
+Agent: Understood. We have some properties with potential upgrades pending inventory.
+Customer: Okay, what about cancellation policies?
+Agent: I'll confirm the policy specifics for each option.
+Customer: Great, let's proceed.
+... (conversation continues for a long time) ...
+Agent: Before we finish, a quick disclosure: upgrades are **not guaranteed** and depend on availability at check‑in. Cancellation fees may apply per the property policy.
+Customer: Thanks for clarifying.
+Agent: My pleasure. Anything else I can do?
+Customer: That's it. Goodbye.

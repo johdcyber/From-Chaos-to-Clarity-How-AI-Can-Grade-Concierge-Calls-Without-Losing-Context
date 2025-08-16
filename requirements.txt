@@ -1,0 +1,5 @@
+tiktoken
+sentence-transformers
+pinecone-client
+faiss-cpu
+openai
